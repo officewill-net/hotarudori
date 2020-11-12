@@ -272,9 +272,9 @@ address {
 }
 @media (min-width: 800px){
 
-    .side-left{
+ /*   .side-left{
   height: 450px;
-}
+}*/
  }
 
 .banner-text{
